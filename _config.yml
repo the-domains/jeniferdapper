@@ -1,0 +1,28 @@
+name: jeniferdapper
+favicon: null
+layout_spectrum: 0.8513488294556737
+typography_spectrum: 0.6297792464029044
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.13424045615829527
+  lightness: 0.98904187977314
+  saturation: 0.5630712134297937
+  rhythmicContrast: 0.15474847052246332
+purpose: []
